@@ -13,6 +13,7 @@ public class DemoApplicationTests {
 	public void contextLoads() {
 		System.out.print("helloWorld");
 		System.out.println("nihao!");
+		System.out.println("123123");
 	}
 
 }
